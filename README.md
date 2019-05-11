@@ -276,4 +276,4 @@ If you'd like to load a `.pb` and `.meta` file when using `return_predict()` you
 
 That's all.
 
-**Run dsc1.py for .mp4/.jpeg object detection and dsc2.py for real time object detection** 
+**Run dsc1.py for .mp4/.jpeg object detection and dsc2.py for real time object detection.** 
